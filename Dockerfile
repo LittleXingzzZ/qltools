@@ -29,7 +29,7 @@ RUN \
 # FROM alpine:3.15
 FROM ubuntu:22.10
 
-MAINTAINER QLTools "nuanxinqing@gmail.com"
+MAINTAINER QLTools "2716775483@qq.com"
 
 ARG TARGETARCH
 ENV TARGET_ARCH=$TARGETARCH
